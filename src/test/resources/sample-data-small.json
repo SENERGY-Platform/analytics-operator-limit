@@ -1,0 +1,32 @@
+[
+  {
+    "value": {
+      "reading": {
+        "value": "1",
+        "timestamp": null
+      }
+    },
+    "device_id": "0",
+    "service_id": "0"
+  },
+  {
+    "value": {
+      "reading": {
+        "value": "1",
+        "timestamp": "1971-01-01T00:00:00+02:00"
+      }
+    },
+    "device_id": "0",
+    "service_id": "0"
+  },
+  {
+    "value": {
+      "reading": {
+        "value": "2",
+        "timestamp": "1971-01-02T00:00:00+02:00"
+      }
+    },
+    "device_id": "0",
+    "service_id": "0"
+  }
+]
